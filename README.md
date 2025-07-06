@@ -6,6 +6,12 @@ A fully responsive and elegant **frontend website** for booking banquet halls on
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live website](https://vaishnavi-patekar.github.io/Banquet-Hall-Booking-Website/)
+
+---
+
 ## 💻 Tech Stack
 
 - **HTML5** – for structure  
